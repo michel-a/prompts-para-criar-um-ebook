@@ -10,6 +10,8 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
+<a href="https://github.com/michel-a/prompts-para-criar-um-ebook/blob/main/output/ebook-javafx-css.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
