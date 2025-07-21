@@ -60,11 +60,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspMichel Alves<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/michel-a">
+    <a href="https://github.com/michel-a?tab=repositories">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/michelalves-">LinkedIn</a>
-&nbsp;|&nbsp;
-&nbsp;|&nbsp;</p>
+    <a href="https://www.linkedin.com/in/michelalves-/">LinkedIn</a>
+    &nbsp;|&nbsp;
+    &nbsp;
+    </p>
 </p>
 <br/><br/>
 <p>
